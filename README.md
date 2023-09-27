@@ -23,6 +23,8 @@ https://www.linkedin.com/in/josellanasmota
 
 ![home](https://github.com/jllanas1986/jllanas1986/assets/122029674/15dd6daf-7898-4a63-b660-097ab9a1168a)
 
+![products](https://github.com/jllanas1986/jllanas1986/assets/122029674/ff07ddd0-249c-404b-994b-3f6a42e22dfa)
+![image2](https://github.com/jllanas1986/jllanas1986/assets/122029674/aeb1ff83-1212-41aa-a3f9-c2fd6bf89d69)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
