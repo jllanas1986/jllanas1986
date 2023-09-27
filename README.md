@@ -19,12 +19,14 @@ https://www.linkedin.com/in/josellanasmota
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jllanas1986&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-# 📱 Designs
+# 📱 Designs 🖥️
 
 ![home](https://github.com/jllanas1986/jllanas1986/assets/122029674/15dd6daf-7898-4a63-b660-097ab9a1168a)
 ![products](https://github.com/jllanas1986/jllanas1986/assets/122029674/ff07ddd0-249c-404b-994b-3f6a42e22dfa)
 ![image2](https://github.com/jllanas1986/jllanas1986/assets/122029674/aeb1ff83-1212-41aa-a3f9-c2fd6bf89d69)
 ![chat](https://github.com/jllanas1986/jllanas1986/assets/122029674/528383b6-6165-4fba-a7aa-0cd6214a8d75)
+![feevents](https://github.com/jllanas1986/jllanas1986/assets/122029674/9ab78467-3c1e-4c6c-9b4c-ed760eb3e422)
+![marina](https://github.com/jllanas1986/jllanas1986/assets/122029674/05c1254a-eb16-479d-9b90-3816196e9e4f)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
