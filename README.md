@@ -27,6 +27,7 @@ https://www.linkedin.com/in/josellanasmota
 ![chat](https://github.com/jllanas1986/jllanas1986/assets/122029674/528383b6-6165-4fba-a7aa-0cd6214a8d75)
 ![feevents](https://github.com/jllanas1986/jllanas1986/assets/122029674/9ab78467-3c1e-4c6c-9b4c-ed760eb3e422)
 ![marina](https://github.com/jllanas1986/jllanas1986/assets/122029674/05c1254a-eb16-479d-9b90-3816196e9e4f)
+![marina2](https://github.com/jllanas1986/jllanas1986/assets/122029674/c68b3e0f-58a6-4c49-892d-252282d69010)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
