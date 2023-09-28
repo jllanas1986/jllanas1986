@@ -1,5 +1,5 @@
 # 💫 About Me:
-¡Bienvenido a mi perfil! <br><br>Soy un joven desarrollador web con una gran pasión por la tecnología y una actitud<br>inquebrantable para aprender y crecer. Me entusiasma la idea de tener la oportunidad <br>de colaborar en proyectos desafiantes y emocionantes. Juntos, podemos construir <br>un futuro digital innovador. ¡Vamos a crear algo increíble! 🚀
+¡Bienvenido a mi perfil! <br><br>Soy un joven desarrollador web con una gran pasión por la tecnología y una actitud<br>inquebrantable para aprender y crecer. Siento un gran estusiasmo por tener la oportunidad <br>de colaborar en proyectos desafiantes y emocionantes. Juntos, podemos construir <br>un futuro digital innovador. ¡Vamos a crear algo increíble! 🚀
 
 
 ## 🌐 Socials:
