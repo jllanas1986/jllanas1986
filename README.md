@@ -31,7 +31,7 @@ I am a young web developer with a great passion for technology and an unwavering
 ![marina](https://github.com/jllanas1986/jllanas1986/assets/122029674/05c1254a-eb16-479d-9b90-3816196e9e4f)
 ![marina2](https://github.com/jllanas1986/jllanas1986/assets/122029674/c68b3e0f-58a6-4c49-892d-252282d69010)
 
-## 💼 [Link to my Cv](https://github.com/jllanas1986/jllanas1986/blob/main/Jose%20Llanas%20Mota.pdf)
+# 💼👉 [Link to my Cv📑](https://github.com/jllanas1986/jllanas1986/blob/main/Jose%20Llanas%20Mota.pdf)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
