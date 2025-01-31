@@ -30,6 +30,7 @@ I am a young web developer with a great passion for technology and an unwavering
 ![feevents](https://github.com/jllanas1986/jllanas1986/assets/122029674/9ab78467-3c1e-4c6c-9b4c-ed760eb3e422)
 ![marina](https://github.com/jllanas1986/jllanas1986/assets/122029674/05c1254a-eb16-479d-9b90-3816196e9e4f)
 ![marina2](https://github.com/jllanas1986/jllanas1986/assets/122029674/c68b3e0f-58a6-4c49-892d-252282d69010)
+![xylem](https://github.com/jllanas1986/jllanas1986/blob/main/applications.png)
 
 ## 💼👉 [Link to my Cv📑](https://github.com/jllanas1986/jllanas1986/blob/main/Jose%20Llanas%20Mota.pdf)
 
