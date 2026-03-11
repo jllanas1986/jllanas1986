@@ -41,7 +41,7 @@ I am a young web developer with a great passion for technology and an unwavering
 ![xylem](https://github.com/jllanas1986/jllanas1986/blob/main/profesionalServices.png)
 ![xylem](https://github.com/jllanas1986/jllanas1986/blob/main/features1.png)
 
-## 💼👉 [Link to my Cv📑](https://github.com/jllanas1986/jllanas1986/blob/main/Jose%20Llanas%20Mota.pdf)
+## 💼👉 [Link to my Cv📑](https://github.com/jllanas1986/jllanas1986/blob/main/Jose_Llanas_Mota.pdf)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
