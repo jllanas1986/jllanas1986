@@ -1,7 +1,7 @@
 # 💫 About Me:
 🤝 Welcome to my profile!
 
-I am a young web developer with a great passion for technology and an unwavering attitude to learn and grow. I am excited to have the opportunity to collaborate on challenging and exciting projects. Together, we can build an innovative digital future. Let's create something amazing! 🚀
+I am a data integration & web/software developer with a strong passion for technology and an unwavering attitude to learn and grow. I specialize in building data pipelines, integrating systems, and developing web/software solutions. I am excited to collaborate on challenging projects where data and technology converge. Let's build something amazing together!! 🚀
 
 
 ## 🌐 Socials:
